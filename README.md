@@ -29,5 +29,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Pass-the-Pillow-LeetCode/assets/171427226/7bd03078-c82e-4402-95ac-eb3ea2e5fd61)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(1).</br>Space complexity: O(1).
 </div>
